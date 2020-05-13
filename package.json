@@ -1,6 +1,6 @@
 {
   "name": "active-event-stack",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Manage groups of event handlers so that only the last group can respond to events",
   "main": "lib",
   "scripts": {
